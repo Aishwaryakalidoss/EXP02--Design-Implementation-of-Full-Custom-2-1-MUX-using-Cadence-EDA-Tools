@@ -63,8 +63,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
-
+ 
+![exp 2 symbol](https://github.com/user-attachments/assets/61bba5f4-0583-43d9-9151-aef111987002)
 
 iv)	Creating the new test cell view
 •	Go to CIW window, Execute File-New-Cell view
@@ -74,7 +74,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ 
+![exp 2 schematic](https://github.com/user-attachments/assets/c1cdedcc-0e81-477d-82a1-5a3a7ab7e1f3)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -91,7 +92,8 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ 
+![exp 2 output](https://github.com/user-attachments/assets/e361ee88-af01-4671-a3f0-788c741803ba)
 
 
 
